@@ -1,0 +1,77 @@
+#title {
+    background-color: black;
+}
+
+#question {
+    background-color: #eebf61;
+    color: black;
+    opacity: 0.9;
+}
+
+h1 {
+    color: #eebf61;
+    text-shadow: 0 0 2px #f2d69f;
+}
+
+#question {
+    margin-top: 30px;
+    border: solid;
+    border-color: #f2d69f;
+    font-size: 20px;
+}
+
+#play {
+    margin-top: 30px;
+    border: solid;
+    font-size: 30px;
+    border-color: white;
+    background-color: green;
+    color: white;
+}
+
+#answers {
+    background-color: black;
+    margin-top: 30px; 
+}
+
+.answerchoice {
+    background-color: black;
+    width: 100%;
+    color: #eebf61;
+    border-color: #f2d69f;
+    font-size: 20px;
+}
+
+#timer {
+    background-color: black;
+    color: #eebf61;
+    text-align: center;
+    margin-top: 30px;
+    border: solid;
+    border-color: #f2d69f;
+    font-size: 30px;
+}
+
+#compare {
+    background-color: black;
+    color: #eebf61;
+    text-align: center;
+    margin-top: 30px;
+    border: solid;
+    border-color: #f2d69f;
+    font-size: 30px;
+}
+
+
+#total {
+    background: black;
+    margin-top: 30px;
+    color: #eebf61; 
+    font-size: 12px; 
+    border: solid;
+    border-color: #f2d69f;
+}
+
+h2 {
+    font-size: 20px;
+}
